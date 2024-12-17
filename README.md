@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @git-mishrarushi
-- 👀 I’m interested in technology , astronomy , philosophy 
-- 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on AI and LLM models
 - 😄 Pronouns: she/her
   
