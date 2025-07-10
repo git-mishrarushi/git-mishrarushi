@@ -1,9 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently working on AI MODELS .<br>👯 I’m looking to collaborate on projects . <br>🤝 I’m looking for help with a secret project .<br>🌱 I’m currently learning GEN AI and LLM .<br>💬 Ask me about philosophy , technology .<br>
+<h1 align="center"> Arushi Mishra </h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/git-mishrarushi" width="150" height="150" style="border-radius: 50%;" alt="Arushi Mishra Profile Picture">
+</p>
 
+<p align="center">
+<strong>Engineering ideas from code to cosmos 🌌</strong><br>
+Machine Learning & Generative AI Enthusiast | Google Cloud | Exploring Astronomy, Quantum Computing & Beyond | Passionate 🔭
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arushi-mishra-232303235) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/arushii_15/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@arushimishra) 
+---
+
+### 👩‍💻 About Me
+- 🧪 I'm currently working on **AI MODELS**
+- 🤝 I'm looking to **collaborate on projects**
+- 🧠 Currently learning **GEN AI and LLMs**
+- 🗨️ Ask me about **philosophy, technology**
+
+---
+
+### 🧰 Skills & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,js,git,github,vscode,gcp,firebase,figma,linux" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| ⭐ Project | 🔍 Description | ⚙️ Tech Stack |
+|----------|----------------|---------------|
+| [ConsumeWise](https://github.com/git-mishrarushi/ConsumeWise) | Gen AI-powered transparency tool for consumer goods | GenAI, Python |
+| [SCT_DataScience_1](https://github.com/git-mishrarushi/SCT_DataScience_1) | Smart city traffic data analysis & dashboard | Python, Power BI |
+| [hiring-without-whiteboards](https://github.com/git-mishrarushi/hiring-without-whiteboards) | List of companies with better hiring processes | JavaScript |
+| [immich](https://github.com/git-mishrarushi/immich) | Self-hosted media manager (forked) | TypeScript |
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:mishrarushi15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arushi-mishra-232303235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sites.google.com/view/arushi-mishra/home"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Google&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=git-mishrarushi&show_icons=true&theme=tokyonight" alt="Arushi's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-mishrarushi&theme=tokyonight"/>
+</p>
+
+---
+
+### 🦄 Fun Fact
+> “Engineering ideas from code to cosmos — one curiosity at a time.” 💫
+
 
 
 
