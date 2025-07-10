@@ -10,14 +10,6 @@ Machine Learning & Generative AI Enthusiast | Google Cloud | Exploring Astronomy
 
 ---
 
-### 👩‍💻 About Me
-- 🧪 I'm currently working on **AI MODELS**
-- 🤝 I'm looking to **collaborate on projects**
-- 🧠 Currently learning **GEN AI and LLMs**
-- 🗨️ Ask me about **philosophy, technology**
-
----
-
 ### 🧰 Skills & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,js,git,github,vscode,gcp,firebase,figma,linux" />
