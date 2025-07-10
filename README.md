@@ -17,18 +17,7 @@ Machine Learning & Generative AI Enthusiast | Google Cloud | Exploring Astronomy
 
 ---
 
-### 🚀 Featured Projects
-
-| ⭐ Project | 🔍 Description | ⚙️ Tech Stack |
-|----------|----------------|---------------|
-| [ConsumeWise](https://github.com/git-mishrarushi/ConsumeWise) | Gen AI-powered transparency tool for consumer goods | GenAI, Python |
-| [SCT_DataScience_1](https://github.com/git-mishrarushi/SCT_DataScience_1) | Smart city traffic data analysis & dashboard | Python, Power BI |
-| [hiring-without-whiteboards](https://github.com/git-mishrarushi/hiring-without-whiteboards) | List of companies with better hiring processes | JavaScript |
-| [immich](https://github.com/git-mishrarushi/immich) | Self-hosted media manager (forked) | TypeScript |
-
----
-
-### 🌐 Connect with Me
+###  Connect with Me
 
 <p align="left">
   <a href="mailto:mishrarushi15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -46,10 +35,6 @@ Machine Learning & Generative AI Enthusiast | Google Cloud | Exploring Astronomy
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-mishrarushi&theme=tokyonight"/>
 </p>
 
----
-
-### 🦄 Fun Fact
-> “Engineering ideas from code to cosmos — one curiosity at a time.” 💫
 
 
 
