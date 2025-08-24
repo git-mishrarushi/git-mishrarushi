@@ -18,11 +18,15 @@ Currently exploring **GenAI applications**, **data-driven insights**, and **inte
 
 ---
 
-###  Skills  
+### Skills  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,tailwind,git,github,linux,mysql,tensorflow,pytorch,opencv,figma,powershell" />
-</p>
+| Area          | Stack |
+|---------------|------------------------------------------------|
+| **Programming** | Python · C++ · JavaScript |
+| **AI / ML**     | TensorFlow · PyTorch · Scikit-learn · OpenCV |
+| **Data**        | Pandas · NumPy · SQL · Power BI · Excel |
+| **Web & UI**    | HTML · CSS · React · Tailwind · Figma |
+| **Tools**       | Git · GitHub · Linux · Firebase · APIs |
 
 ---
 
