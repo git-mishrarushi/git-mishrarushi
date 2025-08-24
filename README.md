@@ -11,14 +11,14 @@
 
 ---
 
-### ✨ About Me  
+###  You should know  
 I’m focused on **AI, machine learning, and data science**.  
 I enjoy building tools that solve **real-world problems** with data, code, and thoughtful design.  
 Currently exploring **GenAI applications**, **data-driven insights**, and **intelligent assistants**.  
 
 ---
 
-### 🛠 Skills  
+###  Skills  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,tailwind,git,github,linux,mysql,tensorflow,pytorch,opencv,figma,powershell" />
@@ -32,12 +32,10 @@ Currently exploring **GenAI applications**, **data-driven insights**, and **inte
 |---------|-------------|
 | [**Smart City Traffic Analysis**](https://github.com/git-mishrarushi/Smart-City-Traffic-Analysis) | Power BI dashboard analyzing traffic patterns in Delhi & Lucknow |
 | **ConsumeWise** | GenAI-powered tool for food transparency & health insights |
-| **AgriAI Assistant** | AI app for farmers – disease detection, weather alerts, market prices |
-| **Sahayak** | AI teaching assistant for under-resourced schools |
 
 ---
 
-### 📊 Activity & Stats  
+### Activity & Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=git-mishrarushi&show_icons=true&theme=tokyonight&hide_border=true" height="160em"/>
@@ -50,7 +48,7 @@ Currently exploring **GenAI applications**, **data-driven insights**, and **inte
 
 ---
 
-### 🌐 Connect  
+### Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arushi-mishra-232303235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
