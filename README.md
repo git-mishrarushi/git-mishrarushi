@@ -30,7 +30,7 @@ Currently exploring **GenAI applications**, **data-driven insights**, and **inte
 
 ---
 
-### 🚀 Featured Projects  
+###  Featured Projects  
 
 | Project | Description |
 |---------|-------------|
